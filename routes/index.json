@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "name": "sketch-1",
+      "src": "src/sketch-1"
+    }
+  ]
+}

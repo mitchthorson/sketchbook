@@ -1,0 +1,7 @@
+*bower_components
+*node_modules
+.DS_Store
+.idea
+/build
+npm-debug.log
+yarn-error.log
